@@ -1,0 +1,6 @@
+name: PixelMobCoin
+version: ${project.version}
+main: net.pixelnw.pixelmobcoin.pixelmobcoin.PixelMobCoin
+commands:
+  jeton:
+  jetonmarket:

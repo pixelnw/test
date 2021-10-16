@@ -1,0 +1,6 @@
+name: PixelMobCoin
+version: 1.0-SNAPSHOT
+main: net.pixelnw.pixelmobcoin.pixelmobcoin.PixelMobCoin
+commands:
+  jeton:
+  jetonmarket:
